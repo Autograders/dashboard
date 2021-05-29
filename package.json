@@ -10,7 +10,7 @@
     "lint": "eslint \"src/**/*.{ts,tsx,json}\" --fix"
   },
   "dependencies": {
-    "@chakra-ui/react": "^1.6.2",
+    "@chakra-ui/react": "^1.6.3",
     "@emotion/react": "^11",
     "@emotion/styled": "^11",
     "framer-motion": "^4",
